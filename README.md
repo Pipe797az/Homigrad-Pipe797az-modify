@@ -11,7 +11,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3011836097
 Contributors: Sadsalat, Useless, Mr. Point, 0oa*
 
 
-теперь будуписать я 
+теперь буду писать я 
 я решил переписать homigrad 
 я разраб на c /c ++
 я буду добовлять функции с rp и тд
